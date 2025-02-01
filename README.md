@@ -2,6 +2,8 @@ Java Programs Collection
 
 
 Welcome to my collection of simple Java programs! This repository contains a series of independent Java programs I’ve created to explore and practice various Java concepts. These programs are standalone examples, each demonstrating different features or algorithms in Java.
+
+
 Contents
 
 This repository contains 14 Java programs, each showcasing different aspects of the Java programming language. These programs are designed for learners and developers who want to explore Java through practical examples.
