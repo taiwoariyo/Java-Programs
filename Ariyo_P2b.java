@@ -39,8 +39,6 @@ public class Ariyo_P2b {
         
 // Increment the year
          year++;
+         }
     }
-        
-    }
-    
 }
