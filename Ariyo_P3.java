@@ -38,7 +38,5 @@ public class Ariyo_P3 {
             System.out.printf("The projected semester tuition amount for year %d: $%.2f%n", year, TUITION);
               
         }
-         
     }
-    
 }
