@@ -48,7 +48,5 @@ public class Ariyo_P1b {
             }
 // Display the total number of bugs
                 System.out.println("The total number of bugs collected for 7 days is: " + totalBugs);
-            
     }
-    
 }
