@@ -35,10 +35,7 @@ public class Ariyo_P2a {
             totalRise = YEARLYRISE * year;
             
 // Display the total ocean rise per year
-            System.out.println("The ocean level for Year " + year + " is: " + totalRise + " millimeters");
-            
+            System.out.println("The ocean level for Year " + year + " is: " + totalRise + " millimeters");   
         }
-        
     }
-    
 }
